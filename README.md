@@ -7,4 +7,4 @@ App deployed at https://hello-world-199923.appspot.com/
 ## Built With
 
 * [GoogleAppEngine](https://cloud.google.com/appengine/)
-* [Jinja](http://jinja.pocoo.org/)
+* [Jinja2](http://jinja.pocoo.org/)
